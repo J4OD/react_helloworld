@@ -10,6 +10,12 @@ function App() {
         <p>
           Hola Eldi
         </p>
+        <p>
+          Hola Mundop
+        </p>
+        <p>
+          Hola Todo
+        </p>
       </header>
     </div>
   );
